@@ -7,6 +7,9 @@ function HomePage() {
     <div className='container max-w-6xl mx-auto'>
         <NavBar />
         <HeroSection />
+        <hr className='max-w-40'></hr>
+        <br />
+        <hr className='max-w-80'></hr>
     </div>
   )
 }
