@@ -14,7 +14,7 @@ function HeroSection() {
           eveniet expedita, necessitatibus.
         </p>
 
-        <button className="bg-gray-900 shadow-lg shadow-gray-600 text-gray-100 dark:text-gray-800 font-bold p-3 mt-2 animate-shine rounded-xl cursor-pointer">
+        <button className="bg-gray-900 text-gray-100 dark:text-gray-800 font-bold p-3 mt-2 animate-shine rounded-xl cursor-pointer">
           <ShinyText text="Tonton Sekarang" disabled={false} speed={3} />
         </button>
       </div>
